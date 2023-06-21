@@ -6,7 +6,12 @@ Thus, I decided to provide the way to download it as chrome extension here:
 Download the .zip file - [Yoimanga.zip](https://github.com/hikki78/Yoimanga/files/11824568/Yoimanga.zip)
 
 ### Step 2 : 
-Go to  
+extract the .zip file and Go to  
 ###### any chromuim browser://extensions/
 
 ### Step 3 :
+Toggle the dev tool on and use load unpack to load your Yoimanga file onto the extension section.
+
+### Step 4 : 
+Enjoy!!!!
+
