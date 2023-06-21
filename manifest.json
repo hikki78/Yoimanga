@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Yoimanga",
+  "version": "1.0",
+  "description": "Recommends you 100 manga in one go if you give it a random number of your choice.",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "action": {
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    },
+    "default_popup": "index.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.google.com/", "https://myanimelist.net/"],
+      "js": ["script.js"]
+    }
+  ]
+}
