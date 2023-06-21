@@ -11,7 +11,8 @@ extract the .zip file and Go to
 
 ### Step 3 :
 Toggle the dev tool on and use load unpack to load your Yoimanga file onto the extension section.
+![0j54rve](https://github.com/hikki78/Yoimanga/assets/79590183/8794d936-b729-4e36-b372-0ec8e2395d21)
 
 ### Step 4 : 
 Enjoy!!!!
-
+![So2A1h2](https://github.com/hikki78/Yoimanga/assets/79590183/7e6e866f-8d27-41fb-afd5-a5bd60335e75)
